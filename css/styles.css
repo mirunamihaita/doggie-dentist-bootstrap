@@ -1,25 +1,7 @@
-/* .hero{
-    display: flex;
-    flex-wrap: wrap;
+body{
+    font-family: 'Montserrat';
 }
 
-.hero div:first-of-type{
-    width: 65%
+#title{
+    background-color: #00b4a3;
 }
-
-.hero div:last-of-type{
-    width: 35%;
-}
-
-.hero div:last-of-type img{
-    width: 100%
-}
-
-@media screen and (max-width: 500px) {
-    .hero div:first-of-type{
-        width:100%;
-    }
-    .hero div:last-of-type{
-        width: 100%;
-    }
-} */

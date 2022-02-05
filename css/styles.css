@@ -2,6 +2,26 @@ body{
     font-family: 'Montserrat';
 }
 
+h1{
+    font-weight: 600;
+    margin-bottom: %;
+}
+
+
+/* NAVBAR */
+.navbar{
+    margin-bottom: 5%;
+}
+
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 600;
+    margin-right: 3%;
+}
+
+
+/* HEADER */
+
 #title{
     background-color: #00b4a3;
 }

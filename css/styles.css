@@ -1,27 +1,45 @@
-body{
-    font-family: 'Montserrat';
+body {
+  font-family: "Montserrat";
 }
 
-h1{
-    font-weight: 600;
-    margin-bottom: %;
+h1 {
+  font-weight: 600;
+  margin-bottom: 3%;
 }
-
 
 /* NAVBAR */
-.navbar{
-    margin-bottom: 5%;
+.navbar {
+  margin-bottom: 5%;
 }
 
-.navbar-brand{
-    font-size: 25px;
-    font-weight: 600;
-    margin-right: 3%;
+.navbar-brand {
+  font-size: 25px;
+  font-weight: 600;
+  margin-right: 3%;
 }
-
 
 /* HEADER */
 
-#title{
-    background-color: #00b4a3;
+#title {
+  background-color: #00b4a3;
+}
+
+/* Features Section */
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+  text-align: center;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
 }
